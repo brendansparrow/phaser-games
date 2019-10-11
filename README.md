@@ -8,4 +8,4 @@ To add:
 - Frogger
 - RPG
 - Metroidvania
-- Procedurally generated
+- Procedurally-generated
