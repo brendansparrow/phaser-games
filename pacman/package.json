@@ -41,6 +41,6 @@
     "typings": "^2.1.0",
     "webpack": "^2.3.2",
     "webpack-copy-plugin": "^0.0.4",
-    "webpack-dev-server": "^2.4.2"
+    "webpack-dev-server": "^3.1.11"
   }
 }
