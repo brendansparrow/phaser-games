@@ -22,6 +22,10 @@
   },
   "homepage": "https://vitaliy-bobrov.github.io/pacman-pwa/",
   "dependencies": {
+    "axios": "^0.18.1",
+    "deep-extend": "^0.5.1",
+    "http-proxy-agent": "^2.1.0",
+    "https-proxy-agent": "^2.2.0",
     "phaser": "^2.6.2",
     "phaser-swipe": "^1.0.4"
   },
